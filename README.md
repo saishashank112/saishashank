@@ -1,4 +1,4 @@
-# Sai Shashank (he/him)
+# Sai Shashank 
 
 
 Hi there! 👋 My name is Sai Shashank. I'm a builder, dreamer, and impact-maker. I love turning ideas into action — whether it's a tech project. I'm on a mission to empower rural India with AI, create revolutionary digital wellness tools, and help others grow along the way. Whether I'm coding in Python, building with React, or launching with Azure, I'm always pushing toward one goal: solve real-world problems with technology.
